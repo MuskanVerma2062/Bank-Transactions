@@ -5,7 +5,10 @@ It is a minor project and a desktop-based application that can be used by custom
 It is a user-friendly and simplified application.
 
 Language Used - Core Java
+
 Concept Used - Swing, AWT
+
 IDE Used - IntelliJ IDEA
+
 Database - MySQL
 
