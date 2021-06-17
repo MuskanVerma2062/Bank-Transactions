@@ -29,10 +29,10 @@ It is a user-friendly and simplified application.
 
 :arrow_down_small: **Money Transactions, Cash Deposit, Cash Withdrawal, Fast Cash Withdrawal and Pin Change**
 
-> <img src = "https://user-images.githubusercontent.com/61617780/122349832-3e155300-cf6a-11eb-97af-70a0219da245.jpeg" width="400" height="400">
+> <img src = "https://user-images.githubusercontent.com/61617780/122349832-3e155300-cf6a-11eb-97af-70a0219da245.jpeg" width="400" height="350">
+> <img src = "https://user-images.githubusercontent.com/61617780/122350821-2d191180-cf6b-11eb-9c0d-daa93090e8e5.jpeg" width="400" height="350">
 > <img src = "https://user-images.githubusercontent.com/61617780/122350755-1ffc2280-cf6b-11eb-8caa-6b421c0aa118.jpeg" width="400" height="220"> 
-> <img src = "https://user-images.githubusercontent.com/61617780/122350785-25f20380-cf6b-11eb-8f0c-136c51b803c1.jpeg" width="400" height="220">
-> <img src = "https://user-images.githubusercontent.com/61617780/122350821-2d191180-cf6b-11eb-9c0d-daa93090e8e5.jpeg" width="400" height="350"> 
+> <img src = "https://user-images.githubusercontent.com/61617780/122350785-25f20380-cf6b-11eb-8f0c-136c51b803c1.jpeg" width="400" height="220"> 
 > <img src = "https://user-images.githubusercontent.com/61617780/122350799-28545d80-cf6b-11eb-82c8-99da4afeafe7.jpeg" width="400" height="220">
 
 :arrow_down_small: **Balance Enquiry and Mini Statement**
